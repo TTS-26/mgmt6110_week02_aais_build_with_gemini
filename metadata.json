@@ -1,0 +1,6 @@
+{
+  "name": "TradingView - Markets Everywhere",
+  "description": "Live global markets portal tracking indices, stocks, crypto, futures, forex, bonds, and ETFs with interactive charts and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
